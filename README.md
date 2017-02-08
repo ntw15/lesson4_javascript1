@@ -15,7 +15,7 @@ calculator coincide with their coding.
 
 ### View Project:
 
-ntw15.github.io
+https://ntw15.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. Through using the step-by-step practice exercises, I learned how to apply 
