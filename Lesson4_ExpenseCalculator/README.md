@@ -4,19 +4,25 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Due 2/10
 
 ### Student Name:  
-(First and Last Name)
+Nicholas Weber
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment helped explain in detail how applications like the expense 
+calculator coincide with their coding.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+ntw15.github.io
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Through using the step-by-step practice exercises, I learned how to apply 
+javascript in my coding
+
+2. Through watching the video tutorials, I learned what to do (and not do) to help 
+make code easier to read and less error-prone.
+
+3. During the interactive exercises, I learned the basic building blocks of
+javascript (included variables/types, operators, and pop-up boxes).
